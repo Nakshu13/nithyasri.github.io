@@ -33,4 +33,4 @@ To view this project locally, you'll need:
 
 ### Installation
 1. **Clone the repository**:
-   ```bash git clone https://github.com/Nakshu13/nithyasri.github.io/edit/main/git
+   ```bash git clone https://github.com/Nakshu13/nithyasri.github.io/tree/main
